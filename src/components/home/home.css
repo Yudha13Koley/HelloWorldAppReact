@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    color: blue;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+    cursor: pointer;
+}
+
+.error-output {
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: italic;
+    color: red;
+}
+
+html {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: blue;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9508;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+.text-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
